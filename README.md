@@ -30,6 +30,7 @@ bash <(wget -qO- "https://raw.githubusercontent.com/TeslaSSH/wireguardX/refs/hea
 ## Installer Requirements:
  * Your vps MUST support both ipv4 and ipv6
  * Avoid using ubuntu 20 or less. always Go for ubuntu 22 or the newest.
+ * A licence Key is required to install this script.
    
  ## Usage : 
  * Just run the installation command above in your VPS, reboot when done installing.
