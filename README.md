@@ -23,7 +23,7 @@
   ## Installation Command :
 
   ```html
-bash <(wget -qO- "https://raw.githubusercontent.com/TeslaSSH/wireguardX/refs/heads/main/main.sh")
+wget -O main.sh "https://raw.githubusercontent.com/TeslaSSH/wireguardX/refs/heads/main/main.sh"; chmod +x main.sh && ./main.sh
 
   ```
 
