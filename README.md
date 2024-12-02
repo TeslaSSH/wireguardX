@@ -22,7 +22,7 @@ bash <(wget -qO- "https://raw.githubusercontent.com/TeslaSSH/wireguardX/refs/hea
   ```
 <h3 align="center">Screenshots</h3>
 <p align="center">
-<img src="img">
+<img src="https://github.com/TeslaSSH/wireguardX/raw/main/assets/shot.jpg">
    </p>
 
   
