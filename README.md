@@ -21,8 +21,22 @@
    </p>
 
   ## Installation Command :
+ ### First Run the updates
+   ```shell
+ sudo apt update && sudo apt upgrade -y
+  ```
+### Run the installer
+  ```shell
+rm -rf main.sh; wget --no-cache -O main.sh "https://raw.githubusercontent.com/TeslaSSH/wireguardX/refs/heads/main/main.sh" && chmod +x main.sh; ./main.sh
 
-  ```html
+  ```
+
+### For fedora, run the updates with dnf package manager.
+   ```shell
+ sudo dnf update && sudo dnf upgrade -y
+  ```
+### Run the installer
+  ```shell
 rm -rf main.sh; wget --no-cache -O main.sh "https://raw.githubusercontent.com/TeslaSSH/wireguardX/refs/heads/main/main.sh" && chmod +x main.sh; ./main.sh
 
   ```
