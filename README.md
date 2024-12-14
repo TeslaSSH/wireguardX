@@ -75,6 +75,5 @@ rm -rf main.sh; wget --no-cache -O main.sh "https://raw.githubusercontent.com/Te
 * Akamai
 * Highly Recommended 👇
   
-[![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%203.svg)](https://www.digitalocean.com/?refcode=68024d8074f5&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
 ## PURCHASE KEY :  <a href="https://t.me/teslassh" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Telegram&label=Telegram&message=Click%20Here&color=blue"></a>
 
